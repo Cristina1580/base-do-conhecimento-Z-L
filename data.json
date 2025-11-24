@@ -1,0 +1,147 @@
+[
+  {
+    "nome": "Zezé di Camargo & Luciano",
+    "descricao": "Dupla sertaneja formada pelos irmãos Mirosmar José de Camargo (Zezé) e Welson David de Camargo (Luciano), reconhecida como uma das mais importantes da música brasileira, com carreira iniciada em 1991.",
+    "data_criacao": "1991",
+    "link": "https://pt.wikipedia.org/wiki/Zez%C3%A9_Di_Camargo_%26_Luciano",
+    "tags": [
+      "sertanejo",
+      "dupla",
+      "música brasileira",
+      "irmãos",
+      "anos 90"
+    ],
+    "imagem": "zeze-luciano.png"
+  },
+  {
+    "nome": "É o Amor",
+    "descricao": "Primeiro grande sucesso da dupla, lançado em 1991, que rapidamente se tornou um clássico da música sertaneja e consolidou Zezé di Camargo & Luciano no cenário nacional.",
+    "data_criacao": "1991",
+    "link": "https://www.letras.com/zeze-di-camargo-e-luciano/65177/",
+    "tags": [
+      "hit",
+      "sertanejo",
+      "clássico",
+      "anos 90"
+    ],
+    "imagem": "zeze-luciano.png"
+  },
+  {
+    "nome": "Discografia da Dupla",
+    "descricao": "A dupla lançou 22 álbuns de estúdio (incluindo dois em espanhol), 5 álbuns ao vivo, 6 álbuns de vídeo e 1 EP. Estima-se que tenham vendido entre 20 e 40 milhões de discos.",
+    "data_criacao": "1991-2024",
+    "link": "https://pt.wikipedia.org/wiki/Discografia_de_Zez%C3%A9_Di_Camargo_%26_Luciano",
+    "tags": [
+      "álbuns",
+      "discografia",
+      "sertanejo",
+      "sucesso"
+    ],
+    "imagem": "discografia.png"
+  },
+  {
+    "nome": "Álbuns Principais",
+    "descricao": "Entre os álbuns mais marcantes estão: 'Zezé di Camargo & Luciano' (1991), 'Dois Corações' (1993), 'Em Português e Espanhol' (1994), 'Ao Vivo' (1999), 'Pra Sempre' (2003), 'Dois Tempos' (2016).",
+    "data_criacao": "1991-2016",
+    "link": "https://www.vagalume.com.br/zeze-di-camargo-e-luciano/discografia/",
+    "tags": [
+      "álbuns",
+      "anos 90",
+      "anos 2000",
+      "anos 2010"
+    ],
+    "imagem": "discografia.png"
+  },
+  {
+    "nome": "Prêmios e Reconhecimento",
+    "descricao": "Receberam discos de ouro, platina e diamante, além de prêmios em festivais e programas de TV. São considerados ícones da música sertaneja romântica.",
+    "data_criacao": "1990-presente",
+    "link": "https://www.letras.mus.br/zeze-di-camargo-e-luciano/",
+    "tags": [
+      "prêmios",
+      "reconhecimento",
+      "sertanejo",
+      "popularidade"
+    ],
+    "imagem":"premios.png"
+  },
+  {
+    "nome": "Turnês e Shows",
+    "descricao": "Realizaram centenas de shows pelo Brasil e exterior, levando o sertanejo romântico para diferentes públicos e consolidando sua imagem como ícones da música brasileira.",
+    "data_criacao": "1991-presente",
+    "link": "https://zezedicamargoeluciano.com.br/",
+    "tags": [
+      "turnês",
+      "shows",
+      "sertanejo",
+      "ao vivo"
+    ],
+    "imagem": "turnes.png"
+  },
+  {
+    "nome": "Filme 2 Filhos de Francisco",
+    "descricao": "Lançado em 2005, o filme conta a história da infância e trajetória da dupla, destacando a luta da família Camargo para alcançar o sucesso. Tornou-se um dos maiores sucessos do cinema nacional.",
+    "data_criacao": "2005",
+    "link": "https://pt.wikipedia.org/wiki/2_Filhos_de_Francisco",
+    "tags": [
+      "cinema",
+      "biografia",
+      "sucesso",
+      "história"
+    ],
+    "imagem": "2_filhos_de_Francisco.png"
+  },
+  {
+    "nome": "Carreira Solo de Zezé di Camargo",
+    "descricao": "Após mais de 30 anos de sucesso com Luciano, Zezé di Camargo iniciou sua carreira solo em 2024 com o projeto 'Rústico'. O trabalho busca resgatar a essência do sertanejo raiz.",
+    "data_criacao": "2024",
+    "link": "https://www.zezedicamargo.com.br/",
+    "tags": [
+      "sertanejo",
+      "carreira solo",
+      "Rústico",
+      "anos 2020",
+      "campo"
+    ],
+    "imagem": "rustico.png"
+  },
+  {
+    "nome": "Projeto Rústico",
+    "descricao": "Primeiro trabalho solo de Zezé di Camargo, desenvolvido em sua fazenda em Goiás após a pandemia. Inclui músicas como 'Discutidas', 'Eu Duvido', 'A Mesma Mentira' e 'Cada Minuto'.",
+    "data_criacao": "2024-2025",
+    "link": "https://www.zezedicamargo.com.br/",
+    "tags": [
+      "sertanejo raiz",
+      "projeto musical",
+      "campo",
+      "Goiás"
+    ],
+    "imagem": "rustico.png"
+  },
+  {
+    "nome": "Luciano em Carreira Gospel",
+    "descricao": "Enquanto Zezé iniciou o projeto 'Rústico', Luciano seguiu carreira solo no segmento gospel. A decisão não significou o fim da dupla, mas abriu caminhos individuais.",
+    "data_criacao": "2024",
+    "link": "https://www.lucianocamargo.art.br/",
+    "tags": [
+      "Luciano",
+      "gospel",
+      "carreira solo",
+      "dupla sertaneja"
+    ],
+    "imagem": "luciano-gospel.png"
+  },
+  {
+    "nome": "Impacto Cultural",
+    "descricao": "Zezé di Camargo & Luciano ajudaram a popularizar o sertanejo romântico nos anos 90 e 2000, influenciando gerações de artistas e consolidando o gênero como parte da identidade musical brasileira.",
+    "data_criacao": "1990-presente",
+    "link": "https://pt.wikipedia.org/wiki/Zez%C3%A9_Di_Camargo_%26_Luciano",
+    "tags": [
+      "cultura",
+      "sertanejo romântico",
+      "anos 90",
+      "influência"
+    ],
+    "imagem": "impacto.png"
+  }
+]
